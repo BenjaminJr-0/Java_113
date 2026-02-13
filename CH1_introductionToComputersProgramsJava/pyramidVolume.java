@@ -1,4 +1,4 @@
-package Java_113.CH1_introductionToComputersProgramsJava.quizVolume;
+
 
 /*problem:  In the ancient land of Codegypt, a new square pyramid was discovered. 
  Archeologists measured the height and the base side of the pyramid to be 150 and 200 meters long.
